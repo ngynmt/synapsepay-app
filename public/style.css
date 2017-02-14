@@ -1,0 +1,46 @@
+body {
+  background-color: #f5f4e1;
+}
+
+h1 {
+  color: #000;
+  text-align: center;
+  font-family: 'Ovo', serif;
+}
+
+h2, h3, h4, h5, text, p, label {
+  font-family: 'Poppins', sans-serif;
+}
+
+.content {
+  display: flex;
+}
+
+.forms {
+  background-color: #FFF;
+  width: 70%;
+  padding: 10px;
+  text-align: center;
+  justify-content: center;
+}
+
+.form-elements {
+  margin-left: 10px;
+  font-family: 'Poppins', sans-serif; 
+}
+
+.button, button {
+  background-color: #f5f4e1;
+  font-family: 'Poppins', sans-serif;
+  border: 0px;
+  margin: 5px;
+}
+
+.KYC {
+  text-align: left;
+  padding-left: 40px;
+}
+
+input {
+  margin: 3px;
+}
